@@ -8,7 +8,7 @@ We used the **California Housing Dataset** provided by Scikit-learn.
 📎 [Dataset Link](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
 
 ## 🛠️ Tech Stack
-- Python 🐍
+- Python
 - Scikit-learn
 - Pandas & NumPy
 - Matplotlib / Seaborn (for visualization)
